@@ -1,0 +1,66 @@
+ body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+		font-size:0.9em;
+		font-family:Tahoma, Helvetica, "Microsoft Yahei", "微软雅黑", Arial, STHeiti;_font-family:Tahoma,Arial,Helvetica,STHeiti
+      }
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 800px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        /*font-size: 72px;*/
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+
+	  .logo {
+     /*非IE的主流浏览器识别的垂直居中的方法*/
+     display: table-cell;
+     vertical-align:middle;
+
+     /*设置水平居中*/
+     text-align:center;
+
+     /* 针对IE的Hack */
+     *display: block;
+     *font-size:175px;/*约为高度的0.873，200*0.873 约为175*/
+     *font-family:Arial;/*防止非utf-8引起的hack失效问题，如gbk编码*/
+
+     width:800px;
+	 max-width: 800px;
+
+	 /*
+	 height:200px;
+     border: 1px solid #eee;
+     */
+	 }
+     .logo img {
+     /*设置图片垂直居中*/
+     vertical-align:middle;
+     }
+
+	 .more{
+		margin-top:10px;
+	 }

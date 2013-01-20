@@ -29,8 +29,8 @@
           <li><a href="./release.html">作品</a></li>
 		  <li><a href="./history.html">历史</a></li>
 		  <li><a href="./discuss.html">讨论</a></li>
-		  <li><a href="./donate.html">捐赠</a></li>
-		  <li  class="active"><a href="./support.html">帮助</a></li>
+		  <li  class="active"><a href="./donate.html">捐赠</a></li>
+		  <li ><a href="./support.html">帮助</a></li>
 
         </ul>	  
 	           <h3 class="muted"> <a href="../"><img src="./assets/ico/logo.png" alt="甘泉村" title="甘泉村攻略团队"></a></h3> 
@@ -43,7 +43,7 @@
 
 
 <div class="page-header">
-    <h1 name="donate">喜欢我们？ <small>您还可以通过支付宝或者Paypal捐赠我们，您的一点点爱心就是我们努力的动力。</small></h1>
+    <h3 name="donate">喜欢我们？ <small>您还可以通过支付宝<sup>1</sup>或者Paypal<sup>2</sup>捐赠我们，您的一点点爱心就是我们努力的动力。</small></h3>
   </div>
 
 
@@ -52,12 +52,12 @@
 
 
       <div class="row">
-        <div class="span4">
+        <div class="span3">
           <h2>一片饼干 <span class="badge"> 1元 </span></h2> 
 
         <p>支持10次攻略下载请求，支撑
         200次访问本页面。</p>
-       <p> 甘泉村攻略组每年基础运营费用的 1/500 </p>
+       <p> 甘泉村攻略团队每年基础运营费用的 1/500 </p>
     	<br/>
           <p> <a class="btn" href="https://me.alipay.com/g1990" target="_blank"><i class="icon-heart"></i> 捐赠1元 &raquo; 支付宝</a></p>
         </div>
@@ -66,16 +66,20 @@
 
 
 
-        <div class="span4">
-          <h2>一块面包 <span class="badge badge-success"> 5元 </span></h2>
-            <p>支持50次攻略下载请求，支撑
-        1000次访问本页面。 </p>
-      <p> 甘泉村攻略组每年基础运营费用的 5/500 </p>
+        <div class="span3">
+          <h2>一块面包 <span class="badge badge-success"> 10元 </span></h2>
+            <p>支持100次攻略下载请求，支撑
+        10000次访问本页面。 </p>
+      <p> 甘泉村攻略团队每年基础运营费用的 10/500 </p>
 
 				<br/>
-          <p><a class="btn" href="https://me.alipay.com/g1990" target="_blank"><i class="icon-heart"></i> 捐赠5元 &raquo; 支付宝</a></p>
+          <p><a class="btn" href="https://me.alipay.com/g1990" target="_blank"><i class="icon-heart"></i> 捐赠10元 &raquo; 支付宝</a></p>
        </div>
 
+
+		
+
+	
 
 		<br/>		<br/>
 
@@ -83,21 +87,47 @@
  
       </div>
 
+
+
 <br/><br/>
 <div class="pull-right">
-<a  target="_blank" href=" https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=6045527@qq.com&currency_code=USD&amount=1.99&return=http://play.ganquan.info/donate.html&item_name=donate ganquan&undefined_quantity=1&no_note=0" ><img src="https://www.paypal.com/zh_XC/i/btn/x-click-but04.gif"></a>
+ <p><a class="btn" href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=6045527@qq.com&currency_code=USD&amount=1.99&return=http://play.ganquan.info/donate.html&item_name=donate ganquan&undefined_quantity=1&no_note=0" target="_blank"><i class="icon-heart"></i> 捐赠1.99元 &raquo; Paypal</a></p>
 
    </div>
 
 <br/><br/><br/><br/>
 
 <div class="well">
-
-甘泉村攻略团队是一个非盈利组织，所需要的经费皆是来自各位粉丝的捐赠。 您的捐赠将用于购买 激活码 下载流量 以及用于 团队福利。即日起，只要您对甘泉村攻略团队捐赠额度超过10元RMB并且留下您的显示地址，你在四周之内将会收到一张拥有甘泉村攻略团队亲笔签名的明信片，明信片还会附带甘泉的印戳。
+<p>
+您的捐赠将用于购买 激活码 下载<sup>3</sup>流量 以及用于 团队福利<sup>4</sup>。
+</p>
+<p>
+即日起，只要您的捐赠额度超过10元RMB并且留下您的显示地址<sup>5</sup>，你在四周<sup>6</sup>之内将会收到一张拥有甘泉村攻略团队亲笔签名的明信片，明信片还会附带风吟本人的印戳<sup>7</sup>。
+</p>
 
 </div>
 
+<br/><br/>
 
+<div class="sosumi">
+		<ul>
+			
+		   <li>* 如若您有能力希望捐赠更多的金额，请直接访问：<a href=" https://me.alipay.com/g1990" target="_blank" rel="nofollow"> https://me.alipay.com/g1990</a> 进行捐赠。</li>
+		</ul>
+		<ol>
+			<li> 支付宝是一个第三方的支付公司，一般用于淘宝购物。但现在已经成为流行的支付工具。</li>
+			<li> Paypal 是一个网上储值工具，利用Paypal 您可以再ebay购物以及对里面的余额转账 。</li>
+			<li> 下载流量是指将文件存放在网上服务器，购买提供下载所消耗流量。</li>
+
+			<li>  团队福利是指，将大家的捐赠金额购买一些小礼物或者虚拟物品奖励攻略团队成员。 </li>
+			<li> 一般而言，只要您捐赠10元RMB以上，并且在 <a href="./assets/img/donate_demo.png"  target="_blank">付款说明</a> 留下自己的现实地址以及姓名。你将收到一张攻略团队亲笔签名(印刷)的明信片。 </li>
+			<li> 明信片从广东发往您的居住地，一般而言只要14天。如若丢信，请联系风吟为您再次补发。但补发不超过2次</li>
+			<li>印戳是 风吟 的个人私章，文字是  “甘泉” 的篆书。 独一无二使用印泥戳在明信片上，有一定的捐赠纪念价值。</li>
+
+		</ol>
+
+
+	</div>
 
 
 <hr/>
